@@ -4,7 +4,7 @@ This demonstrates that I can output information using javascript.
 
 The content itself is a bit of a dummy; The aim here is to become more familiar with the workflow on github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sY9JINeX4vo)
 
 # Development Environment
 
